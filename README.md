@@ -6,13 +6,12 @@
 - Multi-Page Layout
 - Contact Form With EmailJs
 - React-Bootstrap
-- Edit Content From One Place
-
+- 
 ### Setup
 
 Get the code
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
+<pre>git clone https://github.com/vijay0772/vijayportfolio.git</pre>
  
 Install required dependencies
 
